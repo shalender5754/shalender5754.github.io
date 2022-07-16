@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <link rel="stylesheet" href="jodhpur institute of engineering and technology.css">
+   <link rel="stylesheet" href="../all.css">
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="author" content="Shalender kumar">
+   <title>jodhpur institute of engineering and technology - Rajasthan</title>
+   <link rel="stylesheet" href="Jodhpur institute of engineering and technology/style/style.css.CSS">
+</head>
+<body>
+   <nav class="navlist">
+      <ul>
+         <li><h4>TMC.</h4></li>
+         <li><a href="">Home</a></li>
+         <li><a href="">About</a></li>
+         <li><a href="">Course</a></li>
+         <li><a href="">Faculty</a></li>
+      </ul>
+   </nav>
+   <div class="main-box">
+      <h1>JODHPUR INSTITUTE OF ENGINEERNG AND TECHNOLOGY, RAJASTHAN</h1>
+      <p>India's One Of The Best Engeneering College</p>
+      <button>ENROLL NOW</button>
+   </div>
+   <div class="container">
+      <h2>FACILITIES</h2>
+      <div class="row">
+         <div class="column">
+         <a href=""><img src="../Pictures/Images/campus.jpg.jpg" alt=""></a>
+         <a href="">CAMPUS</a>
+         </div>
+         <div class="column">
+            <a href=""><img src="../Pictures/Images/cantine.jpg.jpg" alt=""></a>
+            <a href="">CANTINE</a>
+         </div>
+         <div class="column">
+            <a href=""><img src="../Pictures/Images/library.jpg.jpg" alt=""></a>
+            <a href="">LIBRARY</a>
+         </div>
+      </div>
+   </div>
+   <footer>
+    <a href="#">FAQ</a>
+    <a href="#">Contact Us</a>
+    <a href="#">Terms of Use</a>
+    <a href="#">Privacy Policy</a>
+    <a href="#">Refund Policy</a>
+    <a href="#">&copy; </a>
+</footer>
+</body>
+</html>
